@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brock Butler]]></title>
         <description><![CDATA[Brock Butler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brock-butler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 21:19:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 21:23:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brock-butler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b2dffe-d24b-4d9b-a987-0049da5b425a.jpg">]]></description>
+            <link>https://thegrid.ai/brock-butler/f31684f1-643d-4e5d-8b21-b5d11ac0d994/index.html</link>
+            <guid isPermaLink="false">f31684f1-643d-4e5d-8b21-b5d11ac0d994</guid>
+            <pubDate>Mon, 28 Mar 2016 21:21:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/894251ec-75c2-4b91-b3d1-2d96ee4c9213.jpg">]]></description>
-            <link>undefined1ec14b8a-4896-4eb4-9ea8-a10389b46815/index.html</link>
+            <link>https://thegrid.ai/brock-butler/1ec14b8a-4896-4eb4-9ea8-a10389b46815/index.html</link>
             <guid isPermaLink="false">1ec14b8a-4896-4eb4-9ea8-a10389b46815</guid>
             <pubDate>Mon, 28 Mar 2016 21:19:28 GMT</pubDate>
         </item>
